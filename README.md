@@ -1,9 +1,9 @@
 ## Programming FT232 chip using D2XX library 
 <img src = "http://www.xanthium.in/sites/default/files/site-images/ft232-develop-d2xx-library/ft232-development-d2xx-library-620px.jpg" />
 
-A short introduction on using D2XX library to program the advanced function of FT232 (USB to Serial Converter) chip from FTDI.
+A short introduction on using D2XX library to program the advanced functions of FT232 (USB to Serial Converter) chip from FTDI.
 
-Using D2XX library you can turn the humble FT232 usb to serial converter to a
+Using D2XX library, you can turn the humble FT232 usb to serial converter to a
 
 - **USB to Parallal Converter chip With 8 bit** wide parallal Port (Asynchronous Bit Bang Mode)
 - **USB to Parallal Converter chip With 4 bit** wide parallal Port (CBUS Bit Bang Mode)
