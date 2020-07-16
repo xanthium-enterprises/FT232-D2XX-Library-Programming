@@ -11,7 +11,13 @@ Using D2XX library, you can turn the humble FT232 usb to serial converter to a
 - **USB to Parallal Converter chip With 8 bit** wide parallal Port (Asynchronous Bit Bang Mode)
 - **USB to Parallal Converter chip With 4 bit** wide parallal Port (CBUS Bit Bang Mode)
  
+
+## Compilation link Issues
+
+ - Compiling the code (GCC/Visual Studio) on Windows 10 is causing Link Issues
+ - Refer this [Stack Exchange to Solve the Issue](https://stackoverflow.com/questions/35919382/using-d2xx-of-ftdi-with-c)
  
+
 ## Online Tutorial
 
 [D2XX Library Programming Tutorials using FTDI lib](http://www.xanthium.in/ftdi-ft232-chip-development-using-d2xx-library)
