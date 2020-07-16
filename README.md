@@ -17,12 +17,16 @@ Using D2XX library, you can turn the humble FT232 usb to serial converter to a
 [D2XX Library Programming Tutorials using FTDI lib](http://www.xanthium.in/ftdi-ft232-chip-development-using-d2xx-library)
 
 
+ - The D2XX library **ftd2xx.lib** and the Header File **ftd2xx.h** should be in the same folder when you are compiling the code.
+ - The code can be compiled using GCC compiler.
+ 
 
 ## FTDI LED 7 Segment Control
 
 Here is an interesting application in which a 
 
 [Segment display is controlled without using a microcontroller](http://xanthium.in/interfacing-7-segment-led-display-with-ft232-and-d2xx-library). 
+
 
 ## Repo Details
 
@@ -33,13 +37,11 @@ Here is an interesting application in which a
 - **Comm_RS485** directory contains code for communicating using RS485 Protocol using D2XX Library
  
 
+
 For RS485 Communication you will require a <a href = "http://xanthium.in/USB-to-Serial-RS232-RS485-Converter">USB to RS485 Converter like this one </a>
 
 
 
-The D2XX library **ftd2xx.lib** and the Header File **ftd2xx.h** should be in the same folder when you are compiling the code.
-
-The code can be compiled using GCC compiler.
 
 Here is a Screenshot of the CBUS mode in Action 
 
